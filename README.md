@@ -1,0 +1,1 @@
+The 1000M Climb is 2D platformer inspired by Celeste (PICO-8) made with p5.js. It includes 10 gameplay rooms that scale in difficulty as you climb the mountain. This project was a way for me to challenge myself in working with 2D physics, primarily focusing on clean collisions and dynamic velocity/acceleration control. Enjoy the climb!
